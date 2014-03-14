@@ -1,0 +1,27 @@
+body {
+  margin-top: 70px;
+}
+
+.navbar-brand,
+.navbar-inverse{
+	background-color: #015697;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+ .navbar-inverse .navbar-nav>.active>a:focus {
+color: #fff;
+background-color: #51b948;
+}
+.navbar-inverse .navbar-nav>li>a {
+color: #fff;
+}
+.navbar-inverse .navbar-brand {
+color: #fff;
+}
+
+.legend{
+	padding-top:60px;
+	margin-top: 60px;
+} 
